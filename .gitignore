@@ -1,3 +1,9 @@
+# EDE
+.vscode
+
+# DB
+database-memory.js
+
 # Logs
 logs
 *.log
